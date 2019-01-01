@@ -1,4 +1,6 @@
-# Description 
+# Description 
+
+
 Pywgen is a word list generator in which you can specify a standard character set or a character set that you specify and It can generate all possible combinations and permutations.
 
 This code can be easily adapted for use in brute-force attacks against network services or cryptography.
@@ -22,7 +24,7 @@ Use the command-line, after `-char` yoou specify placeholders for fixed characte
 
 this code will generate a file with lower case alphanumeric characters
 
-- ![Example](https://cdn1.imggmi.com/uploads/2019/1/1/3697a8b0c2f4b44c381aa09b1956abf6-full.png)
+![Example](https://cdn1.imggmi.com/uploads/2019/1/1/3697a8b0c2f4b44c381aa09b1956abf6-full.png)
 
 
 
